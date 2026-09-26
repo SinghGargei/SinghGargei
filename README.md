@@ -33,5 +33,5 @@ I specialize in end-to-end software development, bridging the gap between high-p
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+📫 **Connect with me:** [LinkedIn](https://gargiesingh.com/in) | [Email](mailto:your-gargei.singh@gmail.com)
 
