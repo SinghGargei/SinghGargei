@@ -1,6 +1,6 @@
 # Hi, I'm Gargi Singh! 👋
 
-**Full Stack Developer & AI Engineer** with 2+ years of professional experience building scalable web applications, robust microservices, and AI-driven solutions..
+**Full Stack Developer & AI Engineer** with 2+ years of professional experience building scalable web applications, robust microservices, and AI-driven solutions.
 
 ---
 
